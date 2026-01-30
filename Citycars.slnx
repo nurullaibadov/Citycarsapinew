@@ -1,0 +1,14 @@
+<Solution>
+  <Folder Name="/src/" />
+  <Folder Name="/src/Core/">
+    <Project Path="Citycars.Application/Citycars.Application.csproj" />
+    <Project Path="Citycars.Domain/Citycars.Domain.csproj" />
+  </Folder>
+  <Folder Name="/src/Infrastructure/">
+    <Project Path="Citycars.Infrastructure/Citycars.Infrastructure.csproj" />
+    <Project Path="Citycars.Persistence/Citycars.Persistence.csproj" />
+  </Folder>
+  <Folder Name="/src/Presentation/">
+    <Project Path="Citycars.API/Citycars.API.csproj" />
+  </Folder>
+</Solution>
