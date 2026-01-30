@@ -170,3 +170,6 @@ C:\Backend\Citycars\Citycars.API\obj\Debug\net8.0\refint\Citycars.API.dll
 C:\Backend\Citycars\Citycars.API\obj\Debug\net8.0\Citycars.API.pdb
 C:\Backend\Citycars\Citycars.API\obj\Debug\net8.0\Citycars.API.genruntimeconfig.cache
 C:\Backend\Citycars\Citycars.API\obj\Debug\net8.0\ref\Citycars.API.dll
+C:\Backend\Citycars\Citycars.API\bin\Debug\net8.0\DevOne.Security.Cryptography.BCrypt.dll
+C:\Backend\Citycars\Citycars.API\bin\Debug\net8.0\BCrypt.Net-Next.dll
+C:\Backend\Citycars\Citycars.API\obj\Debug\net8.0\Citycars.API.MvcApplicationPartsAssemblyInfo.cs

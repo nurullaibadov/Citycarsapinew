@@ -107,5 +107,27 @@ namespace Citycars.Persistence.Repositories
                 .Include(b => b.User)
                 .ToListAsync(cancellationToken);
         }
+
+
+        public async Task<int> CountByPrefixAsync(
+    string prefix,
+    CancellationToken cancellationToken = default)
+        {
+            return await _dbSet
+                .Where(b => b.BookingNumber.StartsWith(prefix))
+                .CountAsync(cancellationToken);
+        }
+
+
+        public async Task<List<Booking>> GetBookingsWithCarAndUserAsync(CancellationToken cancellationToken = default)
+        {
+            return await _dbSet
+                .Include(b => b.Car)
+                    .ThenInclude(c => c.Brand)
+                .Include(b => b.User)
+                .OrderByDescending(b => b.CreatedAt)
+                .ToListAsync(cancellationToken);
+        }
+
     }
 }
