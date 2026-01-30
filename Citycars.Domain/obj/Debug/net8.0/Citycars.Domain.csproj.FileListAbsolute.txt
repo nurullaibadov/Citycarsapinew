@@ -1,0 +1,12 @@
+C:\Backend\Citycars\Citycars.Domain\obj\Debug\net8.0\Citycars.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Citycars\Citycars.Domain\obj\Debug\net8.0\Citycars.Domain.AssemblyInfoInputs.cache
+C:\Backend\Citycars\Citycars.Domain\obj\Debug\net8.0\Citycars.Domain.AssemblyInfo.cs
+C:\Backend\Citycars\Citycars.Domain\obj\Debug\net8.0\Citycars.Domain.csproj.CoreCompileInputs.cache
+C:\Backend\Citycars\Citycars.Domain\obj\Debug\net8.0\Citycars.Domain.sourcelink.json
+C:\Backend\Citycars\Citycars.Domain\bin\Debug\net8.0\Citycars.Domain.deps.json
+C:\Backend\Citycars\Citycars.Domain\bin\Debug\net8.0\Citycars.Domain.dll
+C:\Backend\Citycars\Citycars.Domain\bin\Debug\net8.0\Citycars.Domain.pdb
+C:\Backend\Citycars\Citycars.Domain\obj\Debug\net8.0\Citycars.Domain.dll
+C:\Backend\Citycars\Citycars.Domain\obj\Debug\net8.0\refint\Citycars.Domain.dll
+C:\Backend\Citycars\Citycars.Domain\obj\Debug\net8.0\Citycars.Domain.pdb
+C:\Backend\Citycars\Citycars.Domain\obj\Debug\net8.0\ref\Citycars.Domain.dll

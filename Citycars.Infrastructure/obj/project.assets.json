@@ -816,6 +816,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Citycars.Application >= 1.0.0",
+      "Citycars.Domain >= 1.0.0",
       "MailKit >= 4.14.1",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 8.0.0",
       "MimeKit >= 4.14.0",
@@ -857,6 +858,9 @@
           "projectReferences": {
             "C:\\Backend\\Citycars\\Citycars.Application\\Citycars.Application.csproj": {
               "projectPath": "C:\\Backend\\Citycars\\Citycars.Application\\Citycars.Application.csproj"
+            },
+            "C:\\Backend\\Citycars\\Citycars.Domain\\Citycars.Domain.csproj": {
+              "projectPath": "C:\\Backend\\Citycars\\Citycars.Domain\\Citycars.Domain.csproj"
             }
           }
         }

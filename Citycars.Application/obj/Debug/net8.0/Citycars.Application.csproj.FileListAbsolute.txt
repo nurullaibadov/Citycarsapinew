@@ -1,0 +1,16 @@
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\Citycars.Application.csproj.AssemblyReference.cache
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\Citycars.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\Citycars.Application.AssemblyInfoInputs.cache
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\Citycars.Application.AssemblyInfo.cs
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\Citycars.Application.csproj.CoreCompileInputs.cache
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\Citycars.Application.sourcelink.json
+C:\Backend\Citycars\Citycars.Application\bin\Debug\net8.0\Citycars.Application.deps.json
+C:\Backend\Citycars\Citycars.Application\bin\Debug\net8.0\Citycars.Application.dll
+C:\Backend\Citycars\Citycars.Application\bin\Debug\net8.0\Citycars.Application.pdb
+C:\Backend\Citycars\Citycars.Application\bin\Debug\net8.0\Citycars.Domain.dll
+C:\Backend\Citycars\Citycars.Application\bin\Debug\net8.0\Citycars.Domain.pdb
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\Citycars.F520882E.Up2Date
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\Citycars.Application.dll
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\refint\Citycars.Application.dll
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\Citycars.Application.pdb
+C:\Backend\Citycars\Citycars.Application\obj\Debug\net8.0\ref\Citycars.Application.dll

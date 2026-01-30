@@ -4140,6 +4140,7 @@
   "projectFileDependencyGroups": {
     "net8.0": [
       "Citycars.Application >= 1.0.0",
+      "Citycars.Domain >= 1.0.0",
       "Microsoft.EntityFrameworkCore >= 8.0.0",
       "Microsoft.EntityFrameworkCore.Design >= 8.0.0",
       "Microsoft.EntityFrameworkCore.SqlServer >= 8.0.0",
@@ -4181,6 +4182,9 @@
           "projectReferences": {
             "C:\\Backend\\Citycars\\Citycars.Application\\Citycars.Application.csproj": {
               "projectPath": "C:\\Backend\\Citycars\\Citycars.Application\\Citycars.Application.csproj"
+            },
+            "C:\\Backend\\Citycars\\Citycars.Domain\\Citycars.Domain.csproj": {
+              "projectPath": "C:\\Backend\\Citycars\\Citycars.Domain\\Citycars.Domain.csproj"
             }
           }
         }

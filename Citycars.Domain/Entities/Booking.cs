@@ -1,4 +1,5 @@
 ﻿using Citycars.Domain.Entities.Common;
+using Citycars.Domain.Enums;
 using System;
 using System.Collections.Generic;
 using System.Linq;
