@@ -189,6 +189,9 @@
             "projectReferences": {
               "C:\\Backend\\Citycars\\Citycars.Application\\Citycars.Application.csproj": {
                 "projectPath": "C:\\Backend\\Citycars\\Citycars.Application\\Citycars.Application.csproj"
+              },
+              "C:\\Backend\\Citycars\\Citycars.Domain\\Citycars.Domain.csproj": {
+                "projectPath": "C:\\Backend\\Citycars\\Citycars.Domain\\Citycars.Domain.csproj"
               }
             }
           }

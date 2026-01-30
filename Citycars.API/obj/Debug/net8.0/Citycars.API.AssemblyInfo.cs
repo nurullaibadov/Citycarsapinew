@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Citycars.API")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3185c5962d721d1d4e7dabb1c926e258c1bf3d04")]
 [assembly: System.Reflection.AssemblyProductAttribute("Citycars.API")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Citycars.API")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

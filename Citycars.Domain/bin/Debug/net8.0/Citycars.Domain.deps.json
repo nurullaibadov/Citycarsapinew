@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "Citycars.Domain/1.0.0": {
+        "runtime": {
+          "Citycars.Domain.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Citycars.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

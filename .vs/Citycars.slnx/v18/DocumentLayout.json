@@ -1,7 +1,104 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Backend\\Citycars\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\repositories\\unitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E56533-17F1-102B-D441-A9B4049D2A49}|Citycars.Application\\Citycars.Application.csproj|c:\\backend\\citycars\\citycars.application\\abstractions\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E56533-17F1-102B-D441-A9B4049D2A49}|Citycars.Application\\Citycars.Application.csproj|solutionrelative:citycars.application\\abstractions\\irepositories\\iunitofwork.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\repositories\\bookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\repositories\\carrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\repositories\\genericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E56533-17F1-102B-D441-A9B4049D2A49}|Citycars.Application\\Citycars.Application.csproj|c:\\backend\\citycars\\citycars.application\\abstractions\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E56533-17F1-102B-D441-A9B4049D2A49}|Citycars.Application\\Citycars.Application.csproj|solutionrelative:citycars.application\\abstractions\\irepositories\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E56533-17F1-102B-D441-A9B4049D2A49}|Citycars.Application\\Citycars.Application.csproj|c:\\backend\\citycars\\citycars.application\\abstractions\\irepositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E56533-17F1-102B-D441-A9B4049D2A49}|Citycars.Application\\Citycars.Application.csproj|solutionrelative:citycars.application\\abstractions\\irepositories\\ibookingrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E56533-17F1-102B-D441-A9B4049D2A49}|Citycars.Application\\Citycars.Application.csproj|c:\\backend\\citycars\\citycars.application\\abstractions\\irepositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E56533-17F1-102B-D441-A9B4049D2A49}|Citycars.Application\\Citycars.Application.csproj|solutionrelative:citycars.application\\abstractions\\irepositories\\icarrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E5E56533-17F1-102B-D441-A9B4049D2A49}|Citycars.Application\\Citycars.Application.csproj|c:\\backend\\citycars\\citycars.application\\abstractions\\irepositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E5E56533-17F1-102B-D441-A9B4049D2A49}|Citycars.Application\\Citycars.Application.csproj|solutionrelative:citycars.application\\abstractions\\irepositories\\igenericrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\configurations\\settingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\configurations\\settingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\configurations\\reviewconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\configurations\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\configurations\\paymentconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\configurations\\bookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\configurations\\bookingconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\configurations\\carconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE70BB27-EA3B-D401-3F14-B6AF4B7A4F00}|Citycars.Domain\\Citycars.Domain.csproj|c:\\backend\\citycars\\citycars.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE70BB27-EA3B-D401-3F14-B6AF4B7A4F00}|Citycars.Domain\\Citycars.Domain.csproj|solutionrelative:citycars.domain\\entities\\payment.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE70BB27-EA3B-D401-3F14-B6AF4B7A4F00}|Citycars.Domain\\Citycars.Domain.csproj|c:\\backend\\citycars\\citycars.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE70BB27-EA3B-D401-3F14-B6AF4B7A4F00}|Citycars.Domain\\Citycars.Domain.csproj|solutionrelative:citycars.domain\\entities\\car.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE70BB27-EA3B-D401-3F14-B6AF4B7A4F00}|Citycars.Domain\\Citycars.Domain.csproj|c:\\backend\\citycars\\citycars.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE70BB27-EA3B-D401-3F14-B6AF4B7A4F00}|Citycars.Domain\\Citycars.Domain.csproj|solutionrelative:citycars.domain\\entities\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BE70BB27-EA3B-D401-3F14-B6AF4B7A4F00}|Citycars.Domain\\Citycars.Domain.csproj|c:\\backend\\citycars\\citycars.domain\\enums\\carstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BE70BB27-EA3B-D401-3F14-B6AF4B7A4F00}|Citycars.Domain\\Citycars.Domain.csproj|solutionrelative:citycars.domain\\enums\\carstatus.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\configurations\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\configurations\\locationconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\configurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\configurations\\brandconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\configurations\\categoryconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\configurations\\userconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|c:\\backend\\citycars\\citycars.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B208C84C-7F68-929B-D570-C2312FBF485D}|Citycars.Persistence\\Citycars.Persistence.csproj|solutionrelative:citycars.persistence\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +106,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -18,6 +115,318 @@
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UnitOfWork.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Repositories\\UnitOfWork.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Repositories\\UnitOfWork.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Repositories\\UnitOfWork.cs",
+              "ViewState": "AgIAAHEAAAAAAAAAAAA3wHkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:58:04.948Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "IUnitOfWork.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Application\\Abstractions\\IRepositories\\IUnitOfWork.cs",
+              "RelativeDocumentMoniker": "Citycars.Application\\Abstractions\\IRepositories\\IUnitOfWork.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Application\\Abstractions\\IRepositories\\IUnitOfWork.cs",
+              "RelativeToolTip": "Citycars.Application\\Abstractions\\IRepositories\\IUnitOfWork.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAAkwDIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:57:39.705Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Repositories\\UserRepository.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Repositories\\UserRepository.cs",
+              "ViewState": "AgIAABoAAAAAAAAAAAA3wCQAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:57:10.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Repositories\\BookingRepository.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Repositories\\BookingRepository.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Repositories\\BookingRepository.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Repositories\\BookingRepository.cs",
+              "ViewState": "AgIAAGQAAAAAAAAAAAAgwG8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:56:47.393Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CarRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Repositories\\CarRepository.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Repositories\\CarRepository.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Repositories\\CarRepository.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Repositories\\CarRepository.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAgwGcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:56:26.441Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "GenericRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Repositories\\GenericRepository.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Repositories\\GenericRepository.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Repositories\\GenericRepository.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAqwFcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:55:56.641Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Application\\Abstractions\\IRepositories\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Citycars.Application\\Abstractions\\IRepositories\\IUserRepository.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Application\\Abstractions\\IRepositories\\IUserRepository.cs",
+              "RelativeToolTip": "Citycars.Application\\Abstractions\\IRepositories\\IUserRepository.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAA5wCEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:55:30.937Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "IBookingRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Application\\Abstractions\\IRepositories\\IBookingRepository.cs",
+              "RelativeDocumentMoniker": "Citycars.Application\\Abstractions\\IRepositories\\IBookingRepository.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Application\\Abstractions\\IRepositories\\IBookingRepository.cs",
+              "RelativeToolTip": "Citycars.Application\\Abstractions\\IRepositories\\IBookingRepository.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAkwDoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:55:16.104Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ICarRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Application\\Abstractions\\IRepositories\\ICarRepository.cs",
+              "RelativeDocumentMoniker": "Citycars.Application\\Abstractions\\IRepositories\\ICarRepository.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Application\\Abstractions\\IRepositories\\ICarRepository.cs",
+              "RelativeToolTip": "Citycars.Application\\Abstractions\\IRepositories\\ICarRepository.cs",
+              "ViewState": "AgIAACwAAAAAAAAAAAAkwDgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:55:01.644Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "IGenericRepository.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Application\\Abstractions\\IRepositories\\IGenericRepository.cs",
+              "RelativeDocumentMoniker": "Citycars.Application\\Abstractions\\IRepositories\\IGenericRepository.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Application\\Abstractions\\IRepositories\\IGenericRepository.cs",
+              "RelativeToolTip": "Citycars.Application\\Abstractions\\IRepositories\\IGenericRepository.cs",
+              "ViewState": "AgIAACYAAAAAAAAAAAAmwC8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:54:41.238Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SettingConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\SettingConfiguration.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Configurations\\SettingConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\SettingConfiguration.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Configurations\\SettingConfiguration.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwCkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:53:25.757Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "ReviewConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\ReviewConfiguration.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Configurations\\ReviewConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\ReviewConfiguration.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Configurations\\ReviewConfiguration.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAYwDkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:53:09.919Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "PaymentConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\PaymentConfiguration.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Configurations\\PaymentConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\PaymentConfiguration.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Configurations\\PaymentConfiguration.cs",
+              "ViewState": "AgIAADgAAAAAAAAAAAAYwD8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:52:50.653Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\BookingConfiguration.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Configurations\\BookingConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\BookingConfiguration.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Configurations\\BookingConfiguration.cs",
+              "ViewState": "AgIAAEUAAAAAAAAAAAAYwE4AAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:52:23.47Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Payment.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Domain\\Entities\\Payment.cs",
+              "RelativeDocumentMoniker": "Citycars.Domain\\Entities\\Payment.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Domain\\Entities\\Payment.cs",
+              "RelativeToolTip": "Citycars.Domain\\Entities\\Payment.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAewCcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:50:00.665Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Domain\\Entities\\Booking.cs",
+              "RelativeDocumentMoniker": "Citycars.Domain\\Entities\\Booking.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Domain\\Entities\\Booking.cs",
+              "RelativeToolTip": "Citycars.Domain\\Entities\\Booking.cs",
+              "ViewState": "AgIAAIsAAAAAAAAAAAAqwJkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:49:23.601Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Car.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Domain\\Entities\\Car.cs",
+              "RelativeDocumentMoniker": "Citycars.Domain\\Entities\\Car.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Domain\\Entities\\Car.cs",
+              "RelativeToolTip": "Citycars.Domain\\Entities\\Car.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAewGsAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:49:21.901Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "CarStatus.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Domain\\Enums\\CarStatus.cs",
+              "RelativeDocumentMoniker": "Citycars.Domain\\Enums\\CarStatus.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Domain\\Enums\\CarStatus.cs",
+              "RelativeToolTip": "Citycars.Domain\\Enums\\CarStatus.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAQwBEAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:42:57.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "CarConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\CarConfiguration.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Configurations\\CarConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\CarConfiguration.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Configurations\\CarConfiguration.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAnwIkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:38:14.417Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "LocationConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\LocationConfiguration.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Configurations\\LocationConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\LocationConfiguration.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Configurations\\LocationConfiguration.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAYwEoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:36:52.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "BrandConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\BrandConfiguration.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Configurations\\BrandConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\BrandConfiguration.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Configurations\\BrandConfiguration.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAYwCwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:36:28.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "CategoryConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Configurations\\CategoryConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:35:57.135Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "UserConfiguration.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Configurations\\UserConfiguration.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Configurations\\UserConfiguration.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Configurations\\UserConfiguration.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAwA0AAAA+AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:34:35.766Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Backend\\Citycars\\Citycars.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Citycars.Persistence\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Backend\\Citycars\\Citycars.Persistence\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Citycars.Persistence\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAswA0AAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T13:31:21.993Z",
+              "EditorCaption": ""
             }
           ]
         }
