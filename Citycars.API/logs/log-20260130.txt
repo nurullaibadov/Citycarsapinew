@@ -1,0 +1,440 @@
+2026-01-30 19:57:21.342 +04:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2026-01-30 19:57:21.426 +04:00 [WRN] The 'BookingStatus' property 'Status' on entity type 'Booking' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'BookingStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 19:57:21.428 +04:00 [WRN] The 'CarStatus' property 'Status' on entity type 'Car' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'CarStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 19:57:21.428 +04:00 [WRN] The 'PaymentStatus' property 'Status' on entity type 'Payment' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'PaymentStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 19:57:21.696 +04:00 [WRN] The 'BookingStatus' property 'Status' on entity type 'Booking' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'BookingStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 19:57:21.696 +04:00 [WRN] The 'CarStatus' property 'Status' on entity type 'Car' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'CarStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 19:57:21.696 +04:00 [WRN] The 'PaymentStatus' property 'Status' on entity type 'Payment' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'PaymentStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 19:57:38.027 +04:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2026-01-30 19:57:38.172 +04:00 [WRN] The 'BookingStatus' property 'Status' on entity type 'Booking' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'BookingStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 19:57:38.175 +04:00 [WRN] The 'CarStatus' property 'Status' on entity type 'Car' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'CarStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 19:57:38.175 +04:00 [WRN] The 'PaymentStatus' property 'Status' on entity type 'Payment' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'PaymentStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:01.960 +04:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2026-01-30 20:00:02.063 +04:00 [WRN] The 'BookingStatus' property 'Status' on entity type 'Booking' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'BookingStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:02.065 +04:00 [WRN] The 'CarStatus' property 'Status' on entity type 'Car' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'CarStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:02.065 +04:00 [WRN] The 'PaymentStatus' property 'Status' on entity type 'Payment' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'PaymentStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:02.408 +04:00 [WRN] The 'BookingStatus' property 'Status' on entity type 'Booking' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'BookingStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:02.408 +04:00 [WRN] The 'CarStatus' property 'Status' on entity type 'Car' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'CarStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:02.409 +04:00 [WRN] The 'PaymentStatus' property 'Status' on entity type 'Payment' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'PaymentStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:25.045 +04:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2026-01-30 20:00:25.107 +04:00 [WRN] The 'BookingStatus' property 'Status' on entity type 'Booking' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'BookingStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:25.108 +04:00 [WRN] The 'CarStatus' property 'Status' on entity type 'Car' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'CarStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:25.109 +04:00 [WRN] The 'PaymentStatus' property 'Status' on entity type 'Payment' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'PaymentStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:25.266 +04:00 [WRN] The 'BookingStatus' property 'Status' on entity type 'Booking' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'BookingStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:25.266 +04:00 [WRN] The 'CarStatus' property 'Status' on entity type 'Car' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'CarStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:25.266 +04:00 [WRN] The 'PaymentStatus' property 'Status' on entity type 'Payment' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'PaymentStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:38.105 +04:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2026-01-30 20:00:38.173 +04:00 [WRN] The 'BookingStatus' property 'Status' on entity type 'Booking' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'BookingStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:38.175 +04:00 [WRN] The 'CarStatus' property 'Status' on entity type 'Car' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'CarStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:38.175 +04:00 [WRN] The 'PaymentStatus' property 'Status' on entity type 'Payment' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'PaymentStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:38.507 +04:00 [WRN] The 'BookingStatus' property 'Status' on entity type 'Booking' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'BookingStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:38.507 +04:00 [WRN] The 'CarStatus' property 'Status' on entity type 'Car' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'CarStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:38.507 +04:00 [WRN] The 'PaymentStatus' property 'Status' on entity type 'Payment' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'PaymentStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:00:38.902 +04:00 [INF] Executed DbCommand (336ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE DATABASE [CityCarsAzDb];
+2026-01-30 20:00:39.050 +04:00 [INF] Executed DbCommand (145ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+IF SERVERPROPERTY('EngineEdition') <> 5
+BEGIN
+    ALTER DATABASE [CityCarsAzDb] SET READ_COMMITTED_SNAPSHOT ON;
+END;
+2026-01-30 20:00:39.080 +04:00 [INF] Executed DbCommand (11ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2026-01-30 20:00:39.144 +04:00 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [__EFMigrationsHistory] (
+    [MigrationId] nvarchar(150) NOT NULL,
+    [ProductVersion] nvarchar(32) NOT NULL,
+    CONSTRAINT [PK___EFMigrationsHistory] PRIMARY KEY ([MigrationId])
+);
+2026-01-30 20:00:39.146 +04:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT 1
+2026-01-30 20:00:39.162 +04:00 [INF] Executed DbCommand (13ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT OBJECT_ID(N'[__EFMigrationsHistory]');
+2026-01-30 20:00:39.208 +04:00 [INF] Executed DbCommand (42ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT [MigrationId], [ProductVersion]
+FROM [__EFMigrationsHistory]
+ORDER BY [MigrationId];
+2026-01-30 20:00:39.221 +04:00 [INF] Applying migration '20260130160025_addtbsssstodb'.
+2026-01-30 20:00:39.307 +04:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Brands] (
+    [Id] uniqueidentifier NOT NULL,
+    [Name] nvarchar(100) NOT NULL,
+    [LogoUrl] nvarchar(500) NULL,
+    [Description] nvarchar(1000) NULL,
+    [IsActive] bit NOT NULL DEFAULT CAST(1 AS bit),
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Brands] PRIMARY KEY ([Id])
+);
+2026-01-30 20:00:39.312 +04:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Categories] (
+    [Id] uniqueidentifier NOT NULL,
+    [Name] nvarchar(100) NOT NULL,
+    [Description] nvarchar(500) NULL,
+    [ImageUrl] nvarchar(500) NULL,
+    [DisplayOrder] int NOT NULL DEFAULT 0,
+    [IsActive] bit NOT NULL DEFAULT CAST(1 AS bit),
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Categories] PRIMARY KEY ([Id])
+);
+2026-01-30 20:00:39.318 +04:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Locations] (
+    [Id] uniqueidentifier NOT NULL,
+    [Name] nvarchar(200) NOT NULL,
+    [Address] nvarchar(500) NOT NULL,
+    [City] nvarchar(100) NOT NULL,
+    [Country] nvarchar(100) NULL DEFAULT N'Azerbaijan',
+    [Latitude] decimal(9,6) NULL,
+    [Longitude] decimal(9,6) NULL,
+    [PhoneNumber] nvarchar(20) NULL,
+    [WorkingHours] nvarchar(200) NULL,
+    [IsActive] bit NOT NULL DEFAULT CAST(1 AS bit),
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Locations] PRIMARY KEY ([Id])
+);
+2026-01-30 20:00:39.322 +04:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Settings] (
+    [Id] uniqueidentifier NOT NULL,
+    [Key] nvarchar(100) NOT NULL,
+    [Value] nvarchar(2000) NOT NULL,
+    [Description] nvarchar(500) NULL,
+    [Type] nvarchar(50) NOT NULL DEFAULT N'String',
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Settings] PRIMARY KEY ([Id])
+);
+2026-01-30 20:00:39.328 +04:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Users] (
+    [Id] uniqueidentifier NOT NULL,
+    [FirstName] nvarchar(50) NOT NULL,
+    [LastName] nvarchar(50) NOT NULL,
+    [Email] nvarchar(100) NOT NULL,
+    [PasswordHash] nvarchar(500) NOT NULL,
+    [PhoneNumber] nvarchar(20) NULL,
+    [DrivingLicenseNumber] nvarchar(50) NULL,
+    [DateOfBirth] datetime2 NULL,
+    [Address] nvarchar(500) NULL,
+    [City] nvarchar(100) NULL,
+    [Country] nvarchar(100) NULL,
+    [IsEmailVerified] bit NOT NULL DEFAULT CAST(0 AS bit),
+    [IsActive] bit NOT NULL DEFAULT CAST(1 AS bit),
+    [Role] nvarchar(20) NOT NULL DEFAULT N'User',
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Users] PRIMARY KEY ([Id])
+);
+2026-01-30 20:00:39.344 +04:00 [INF] Executed DbCommand (16ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Cars] (
+    [Id] uniqueidentifier NOT NULL,
+    [Model] nvarchar(100) NOT NULL,
+    [Year] int NOT NULL,
+    [Color] nvarchar(50) NOT NULL,
+    [LicensePlate] nvarchar(20) NOT NULL,
+    [Seats] int NOT NULL,
+    [FuelType] nvarchar(50) NOT NULL,
+    [Transmission] nvarchar(50) NOT NULL,
+    [PricePerDay] decimal(18,2) NOT NULL,
+    [PricePerHour] decimal(18,2) NULL,
+    [Mileage] int NOT NULL DEFAULT 0,
+    [Description] nvarchar(2000) NULL,
+    [Features] nvarchar(max) NULL,
+    [Status] nvarchar(50) NOT NULL DEFAULT N'Available',
+    [MainImageUrl] nvarchar(500) NULL,
+    [ImageUrls] nvarchar(max) NULL,
+    [IsFeatured] bit NOT NULL DEFAULT CAST(0 AS bit),
+    [AverageRating] float(3) NULL,
+    [TotalReviews] int NOT NULL DEFAULT 0,
+    [CategoryId] uniqueidentifier NOT NULL,
+    [BrandId] uniqueidentifier NOT NULL,
+    [LocationId] uniqueidentifier NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Cars] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Cars_Brands_BrandId] FOREIGN KEY ([BrandId]) REFERENCES [Brands] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Cars_Categories_CategoryId] FOREIGN KEY ([CategoryId]) REFERENCES [Categories] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Cars_Locations_LocationId] FOREIGN KEY ([LocationId]) REFERENCES [Locations] ([Id]) ON DELETE SET NULL
+);
+2026-01-30 20:00:39.422 +04:00 [INF] Executed DbCommand (10ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Bookings] (
+    [Id] uniqueidentifier NOT NULL,
+    [BookingNumber] nvarchar(50) NOT NULL,
+    [PickupDate] datetime2 NOT NULL,
+    [ReturnDate] datetime2 NOT NULL,
+    [TotalDays] int NOT NULL,
+    [PricePerDay] decimal(18,2) NOT NULL,
+    [TotalPrice] decimal(18,2) NOT NULL,
+    [DiscountAmount] decimal(18,2) NULL,
+    [FinalPrice] decimal(18,2) NOT NULL,
+    [Status] nvarchar(50) NOT NULL DEFAULT N'Pending',
+    [SpecialRequests] nvarchar(1000) NULL,
+    [CancellationReason] nvarchar(500) NULL,
+    [CancellationDate] datetime2 NULL,
+    [UserId] uniqueidentifier NOT NULL,
+    [CarId] uniqueidentifier NOT NULL,
+    [PickupLocationId] uniqueidentifier NOT NULL,
+    [ReturnLocationId] uniqueidentifier NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Bookings] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Bookings_Cars_CarId] FOREIGN KEY ([CarId]) REFERENCES [Cars] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Bookings_Locations_PickupLocationId] FOREIGN KEY ([PickupLocationId]) REFERENCES [Locations] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Bookings_Locations_ReturnLocationId] FOREIGN KEY ([ReturnLocationId]) REFERENCES [Locations] ([Id]) ON DELETE NO ACTION,
+    CONSTRAINT [FK_Bookings_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([Id]) ON DELETE NO ACTION
+);
+2026-01-30 20:00:39.428 +04:00 [INF] Executed DbCommand (6ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Payments] (
+    [Id] uniqueidentifier NOT NULL,
+    [TransactionId] nvarchar(100) NOT NULL,
+    [Amount] decimal(18,2) NOT NULL,
+    [Currency] nvarchar(3) NOT NULL DEFAULT N'AZN',
+    [Status] nvarchar(50) NOT NULL DEFAULT N'Pending',
+    [PaymentMethod] nvarchar(50) NOT NULL,
+    [CardLast4Digits] nvarchar(4) NULL,
+    [PaymentDate] datetime2 NULL,
+    [PaymentGatewayResponse] nvarchar(max) NULL,
+    [BookingId] uniqueidentifier NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Payments] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Payments_Bookings_BookingId] FOREIGN KEY ([BookingId]) REFERENCES [Bookings] ([Id]) ON DELETE CASCADE
+);
+2026-01-30 20:00:39.441 +04:00 [INF] Executed DbCommand (12ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE TABLE [Reviews] (
+    [Id] uniqueidentifier NOT NULL,
+    [Rating] int NOT NULL,
+    [Comment] nvarchar(1000) NULL,
+    [IsVerified] bit NOT NULL DEFAULT CAST(0 AS bit),
+    [IsApproved] bit NOT NULL DEFAULT CAST(0 AS bit),
+    [UserId] uniqueidentifier NOT NULL,
+    [CarId] uniqueidentifier NOT NULL,
+    [BookingId] uniqueidentifier NOT NULL,
+    [CreatedAt] datetime2 NOT NULL,
+    [UpdatedAt] datetime2 NULL,
+    [IsDeleted] bit NOT NULL,
+    CONSTRAINT [PK_Reviews] PRIMARY KEY ([Id]),
+    CONSTRAINT [FK_Reviews_Bookings_BookingId] FOREIGN KEY ([BookingId]) REFERENCES [Bookings] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Reviews_Cars_CarId] FOREIGN KEY ([CarId]) REFERENCES [Cars] ([Id]) ON DELETE CASCADE,
+    CONSTRAINT [FK_Reviews_Users_UserId] FOREIGN KEY ([UserId]) REFERENCES [Users] ([Id]) ON DELETE NO ACTION
+);
+2026-01-30 20:00:42.066 +04:00 [INF] Executed DbCommand (18ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Bookings_BookingNumber] ON [Bookings] ([BookingNumber]);
+2026-01-30 20:00:42.070 +04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Bookings_CarId] ON [Bookings] ([CarId]);
+2026-01-30 20:00:42.074 +04:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Bookings_Dates] ON [Bookings] ([PickupDate], [ReturnDate]);
+2026-01-30 20:00:42.078 +04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Bookings_PickupLocationId] ON [Bookings] ([PickupLocationId]);
+2026-01-30 20:00:42.080 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Bookings_ReturnLocationId] ON [Bookings] ([ReturnLocationId]);
+2026-01-30 20:00:42.081 +04:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Bookings_Status] ON [Bookings] ([Status]);
+2026-01-30 20:00:42.085 +04:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Bookings_UserId] ON [Bookings] ([UserId]);
+2026-01-30 20:00:42.088 +04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Brands_Name] ON [Brands] ([Name]);
+2026-01-30 20:00:42.091 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Cars_BrandId] ON [Cars] ([BrandId]);
+2026-01-30 20:00:42.093 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Cars_Category_Status] ON [Cars] ([CategoryId], [Status]);
+2026-01-30 20:00:42.095 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Cars_CategoryId] ON [Cars] ([CategoryId]);
+2026-01-30 20:00:42.098 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Cars_IsFeatured] ON [Cars] ([IsFeatured]);
+2026-01-30 20:00:42.101 +04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Cars_LicensePlate] ON [Cars] ([LicensePlate]);
+2026-01-30 20:00:42.106 +04:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Cars_LocationId] ON [Cars] ([LocationId]);
+2026-01-30 20:00:42.110 +04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Cars_Status] ON [Cars] ([Status]);
+2026-01-30 20:00:42.111 +04:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Categories_DisplayOrder] ON [Categories] ([DisplayOrder]);
+2026-01-30 20:00:42.113 +04:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Categories_Name] ON [Categories] ([Name]);
+2026-01-30 20:00:42.115 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Locations_City] ON [Locations] ([City]);
+2026-01-30 20:00:42.117 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Payments_BookingId] ON [Payments] ([BookingId]);
+2026-01-30 20:00:42.121 +04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Payments_Status] ON [Payments] ([Status]);
+2026-01-30 20:00:42.123 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Payments_TransactionId] ON [Payments] ([TransactionId]);
+2026-01-30 20:00:42.125 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Reviews_BookingId] ON [Reviews] ([BookingId]);
+2026-01-30 20:00:44.729 +04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Reviews_CarId] ON [Reviews] ([CarId]);
+2026-01-30 20:00:44.731 +04:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Reviews_IsApproved] ON [Reviews] ([IsApproved]);
+2026-01-30 20:00:44.732 +04:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Reviews_UserId] ON [Reviews] ([UserId]);
+2026-01-30 20:00:44.734 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Settings_Key] ON [Settings] ([Key]);
+2026-01-30 20:00:44.736 +04:00 [INF] Executed DbCommand (2ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE UNIQUE INDEX [IX_Users_Email_Lookup] ON [Users] ([Email]);
+2026-01-30 20:00:44.738 +04:00 [INF] Executed DbCommand (1ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+CREATE INDEX [IX_Users_PhoneNumber] ON [Users] ([PhoneNumber]);
+2026-01-30 20:00:44.760 +04:00 [INF] Executed DbCommand (22ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+INSERT INTO [__EFMigrationsHistory] ([MigrationId], [ProductVersion])
+VALUES (N'20260130160025_addtbsssstodb', N'8.0.20');
+2026-01-30 20:03:05.832 +04:00 [INF] No action descriptors found. This may indicate an incorrectly configured application or missing application parts. To learn more, visit https://aka.ms/aspnet/mvc/app-parts
+2026-01-30 20:03:06.977 +04:00 [WRN] Sensitive data logging is enabled. Log entries and exception messages may include sensitive application data; this mode should only be enabled during development.
+2026-01-30 20:03:07.058 +04:00 [WRN] The 'BookingStatus' property 'Status' on entity type 'Booking' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'BookingStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:03:07.064 +04:00 [WRN] The 'CarStatus' property 'Status' on entity type 'Car' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'CarStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:03:07.067 +04:00 [WRN] The 'PaymentStatus' property 'Status' on entity type 'Payment' is configured with a database-generated default, but has no configured sentinel value. The database-generated default will always be used for inserts when the property has the value '0', since this is the CLR default for the 'PaymentStatus' type. Consider using a nullable type, using a nullable backing field, or setting the sentinel value for the property to ensure the database default is used when, and only when, appropriate. See https://aka.ms/efcore-docs-default-values for more information.
+2026-01-30 20:03:08.447 +04:00 [INF] Executed DbCommand (39ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Categories] AS [c]
+        WHERE [c].[IsDeleted] = CAST(0 AS bit)) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2026-01-30 20:03:08.788 +04:00 [INF] Executed DbCommand (83ms) [Parameters=[@p0='358fe41c-6ea9-49f7-8072-fa2830acf019', @p1='2026-01-30T16:03:08.6156543Z', @p2='Spacious and comfortable SUVs for family trips' (Size = 500), @p3='2', @p4='/images/categories/suv.jpg' (Size = 500), @p5='False', @p6='SUVs' (Nullable = false) (Size = 100), @p7=NULL (DbType = DateTime2), @p8='dfe19880-cee8-4d5c-8e06-534a4f6f0761', @p9='2026-01-30T16:03:08.6156547Z', @p10='Affordable and fuel-efficient cars' (Size = 500), @p11='3', @p12='/images/categories/economy.jpg' (Size = 500), @p13='False', @p14='Economy' (Nullable = false) (Size = 100), @p15=NULL (DbType = DateTime2), @p16='f1e89430-db7d-46b5-8694-ee0cddfbb26d', @p17='2026-01-30T16:03:08.6156087Z', @p18='Premium luxury vehicles for special occasions' (Size = 500), @p19='1', @p20='/images/categories/luxury.jpg' (Size = 500), @p21='False', @p22='Luxury Cars' (Nullable = false) (Size = 100), @p23=NULL (DbType = DateTime2), @p24='f9643f10-7721-44b9-82d5-c9065b5377ff', @p25='2026-01-30T16:03:08.6156550Z', @p26='Eco-friendly electric vehicles' (Size = 500), @p27='4', @p28='/images/categories/electric.jpg' (Size = 500), @p29='False', @p30='Electric' (Nullable = false) (Size = 100), @p31=NULL (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+MERGE [Categories] USING (
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, 0),
+(@p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15, 1),
+(@p16, @p17, @p18, @p19, @p20, @p21, @p22, @p23, 2),
+(@p24, @p25, @p26, @p27, @p28, @p29, @p30, @p31, 3)) AS i ([Id], [CreatedAt], [Description], [DisplayOrder], [ImageUrl], [IsDeleted], [Name], [UpdatedAt], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([Id], [CreatedAt], [Description], [DisplayOrder], [ImageUrl], [IsDeleted], [Name], [UpdatedAt])
+VALUES (i.[Id], i.[CreatedAt], i.[Description], i.[DisplayOrder], i.[ImageUrl], i.[IsDeleted], i.[Name], i.[UpdatedAt])
+OUTPUT INSERTED.[IsActive], i._Position;
+2026-01-30 20:03:08.832 +04:00 [INF] Executed DbCommand (5ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Brands] AS [b]
+        WHERE [b].[IsDeleted] = CAST(0 AS bit)) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2026-01-30 20:03:08.885 +04:00 [INF] Executed DbCommand (18ms) [Parameters=[@p0='0e868ee3-78e7-4339-824a-b97f3aa8ba01', @p1='2026-01-30T16:03:08.8646087Z', @p2=NULL (Size = 1000), @p3='False', @p4='/images/brands/toyota.svg' (Size = 500), @p5='Toyota' (Nullable = false) (Size = 100), @p6=NULL (DbType = DateTime2), @p7='0fcf0839-93fd-4ef3-a79b-551e7607758f', @p8='2026-01-30T16:03:08.8646083Z', @p9=NULL (Size = 1000), @p10='False', @p11='/images/brands/mercedes.svg' (Size = 500), @p12='Mercedes-Benz' (Nullable = false) (Size = 100), @p13=NULL (DbType = DateTime2), @p14='465a0bf0-b3d1-4ff3-9147-e0f1d96e21ec', @p15='2026-01-30T16:03:08.8646072Z', @p16=NULL (Size = 1000), @p17='False', @p18='/images/brands/audi.svg' (Size = 500), @p19='Audi' (Nullable = false) (Size = 100), @p20=NULL (DbType = DateTime2), @p21='58e1c61d-0106-4bb2-8f5b-7cf99a3eddbb', @p22='2026-01-30T16:03:08.8646104Z', @p23=NULL (Size = 1000), @p24='False', @p25='/images/brands/hyundai.svg' (Size = 500), @p26='Hyundai' (Nullable = false) (Size = 100), @p27=NULL (DbType = DateTime2), @p28='97c60488-65ad-4b98-af72-3b2c459d6f10', @p29='2026-01-30T16:03:08.8646026Z', @p30=NULL (Size = 1000), @p31='False', @p32='/images/brands/tesla.svg' (Size = 500), @p33='Tesla' (Nullable = false) (Size = 100), @p34=NULL (DbType = DateTime2), @p35='ab6ea9fc-fab4-4aa5-be32-611bb81d1bf3', @p36='2026-01-30T16:03:08.8646080Z', @p37=NULL (Size = 1000), @p38='False', @p39='/images/brands/bmw.svg' (Size = 500), @p40='BMW' (Nullable = false) (Size = 100), @p41=NULL (DbType = DateTime2), @p42='c79f1630-0443-4429-80b4-66a4500275bb', @p43='2026-01-30T16:03:08.8646112Z', @p44=NULL (Size = 1000), @p45='False', @p46='/images/brands/range-rover.svg' (Size = 500), @p47='Range Rover' (Nullable = false) (Size = 100), @p48=NULL (DbType = DateTime2), @p49='d0dd5191-386b-45c1-a3aa-961d5966ad79', @p50='2026-01-30T16:03:08.8646108Z', @p51=NULL (Size = 1000), @p52='False', @p53='/images/brands/kia.svg' (Size = 500), @p54='Kia' (Nullable = false) (Size = 100), @p55=NULL (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+MERGE [Brands] USING (
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, 0),
+(@p7, @p8, @p9, @p10, @p11, @p12, @p13, 1),
+(@p14, @p15, @p16, @p17, @p18, @p19, @p20, 2),
+(@p21, @p22, @p23, @p24, @p25, @p26, @p27, 3),
+(@p28, @p29, @p30, @p31, @p32, @p33, @p34, 4),
+(@p35, @p36, @p37, @p38, @p39, @p40, @p41, 5),
+(@p42, @p43, @p44, @p45, @p46, @p47, @p48, 6),
+(@p49, @p50, @p51, @p52, @p53, @p54, @p55, 7)) AS i ([Id], [CreatedAt], [Description], [IsDeleted], [LogoUrl], [Name], [UpdatedAt], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([Id], [CreatedAt], [Description], [IsDeleted], [LogoUrl], [Name], [UpdatedAt])
+VALUES (i.[Id], i.[CreatedAt], i.[Description], i.[IsDeleted], i.[LogoUrl], i.[Name], i.[UpdatedAt])
+OUTPUT INSERTED.[IsActive], i._Position;
+2026-01-30 20:03:08.902 +04:00 [INF] Executed DbCommand (7ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Locations] AS [l]
+        WHERE [l].[IsDeleted] = CAST(0 AS bit)) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2026-01-30 20:03:08.995 +04:00 [INF] Executed DbCommand (15ms) [Parameters=[@p0='38b64b3c-2123-469a-bfe8-e659ee34feeb', @p1='153 Neftchilar Avenue, Baku' (Nullable = false) (Size = 500), @p2='Baku' (Nullable = false) (Size = 100), @p3='Azerbaijan' (Size = 100), @p4='2026-01-30T16:03:08.9698084Z', @p5='False', @p6='40.3656' (Nullable = true) (Precision = 9) (Scale = 6), @p7='49.8364' (Nullable = true) (Precision = 9) (Scale = 6), @p8='Port Baku Mall' (Nullable = false) (Size = 200), @p9='+994 12 444 44 44' (Size = 20), @p10=NULL (DbType = DateTime2), @p11='10:00 - 22:00' (Size = 200), @p12='427b0b1e-5862-4388-ae8a-6fe985ed3e7c', @p13='Baku Airport, AZ1044' (Nullable = false) (Size = 500), @p14='Baku' (Nullable = false) (Size = 100), @p15='Azerbaijan' (Size = 100), @p16='2026-01-30T16:03:08.9698136Z', @p17='False', @p18='40.4675' (Nullable = true) (Precision = 9) (Scale = 6), @p19='50.0467' (Nullable = true) (Precision = 9) (Scale = 6), @p20='Heydar Aliyev International Airport' (Nullable = false) (Size = 200), @p21='+994 12 497 27 27' (Size = 20), @p22=NULL (DbType = DateTime2), @p23='24/7' (Size = 200), @p24='56cd4a1e-b2ff-4d86-b473-a5e3fecbc5c6', @p25='28 May Street, Baku' (Nullable = false) (Size = 500), @p26='Baku' (Nullable = false) (Size = 100), @p27='Azerbaijan' (Size = 100), @p28='2026-01-30T16:03:08.9698134Z', @p29='False', @p30='40.3777' (Nullable = true) (Precision = 9) (Scale = 6), @p31='49.8920' (Nullable = true) (Precision = 9) (Scale = 6), @p32='City Center Office' (Nullable = false) (Size = 200), @p33='+994 12 555 55 55' (Size = 20), @p34=NULL (DbType = DateTime2), @p35='09:00 - 18:00' (Size = 200)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+MERGE [Locations] USING (
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, 0),
+(@p12, @p13, @p14, @p15, @p16, @p17, @p18, @p19, @p20, @p21, @p22, @p23, 1),
+(@p24, @p25, @p26, @p27, @p28, @p29, @p30, @p31, @p32, @p33, @p34, @p35, 2)) AS i ([Id], [Address], [City], [Country], [CreatedAt], [IsDeleted], [Latitude], [Longitude], [Name], [PhoneNumber], [UpdatedAt], [WorkingHours], _Position) ON 1=0
+WHEN NOT MATCHED THEN
+INSERT ([Id], [Address], [City], [Country], [CreatedAt], [IsDeleted], [Latitude], [Longitude], [Name], [PhoneNumber], [UpdatedAt], [WorkingHours])
+VALUES (i.[Id], i.[Address], i.[City], i.[Country], i.[CreatedAt], i.[IsDeleted], i.[Latitude], i.[Longitude], i.[Name], i.[PhoneNumber], i.[UpdatedAt], i.[WorkingHours])
+OUTPUT INSERTED.[IsActive], i._Position;
+2026-01-30 20:03:09.009 +04:00 [INF] Executed DbCommand (4ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Users] AS [u]
+        WHERE [u].[IsDeleted] = CAST(0 AS bit)) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2026-01-30 20:03:09.450 +04:00 [INF] Executed DbCommand (7ms) [Parameters=[@p0='425500d1-d2a2-4c0a-8c17-a26b7b81b4ea', @p1=NULL (Size = 500), @p2='Baku' (Size = 100), @p3='Azerbaijan' (Size = 100), @p4='2026-01-30T16:03:09.4359506Z', @p5=NULL (DbType = DateTime2), @p6=NULL (Size = 50), @p7='admin@citycars.az' (Nullable = false) (Size = 100), @p8='Admin' (Nullable = false) (Size = 50), @p9='False', @p10='True', @p11='User' (Nullable = false) (Size = 50), @p12='$2a$11$0YUd.gUiEHW9Gvo9/xo.Z.aXhlLuN0RsCdxyg0ooyO1g9sI0VUale' (Nullable = false) (Size = 500), @p13='+994501234567' (Size = 20), @p14='Admin' (Nullable = false) (Size = 20), @p15=NULL (DbType = DateTime2)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Users] ([Id], [Address], [City], [Country], [CreatedAt], [DateOfBirth], [DrivingLicenseNumber], [Email], [FirstName], [IsDeleted], [IsEmailVerified], [LastName], [PasswordHash], [PhoneNumber], [Role], [UpdatedAt])
+OUTPUT INSERTED.[IsActive]
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7, @p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15);
+2026-01-30 20:03:09.464 +04:00 [INF] Executed DbCommand (3ms) [Parameters=[], CommandType='"Text"', CommandTimeout='30']
+SELECT CASE
+    WHEN EXISTS (
+        SELECT 1
+        FROM [Settings] AS [s]
+        WHERE [s].[IsDeleted] = CAST(0 AS bit)) THEN CAST(1 AS bit)
+    ELSE CAST(0 AS bit)
+END
+2026-01-30 20:03:09.509 +04:00 [INF] Executed DbCommand (9ms) [Parameters=[@p0='11c7b01a-06df-4d88-bd35-7461b804d5e4', @p1='2026-01-30T16:03:09.4966072Z', @p2=NULL (Size = 500), @p3='False', @p4='ContactEmail' (Nullable = false) (Size = 100), @p5='String' (Nullable = false) (Size = 50), @p6=NULL (DbType = DateTime2), @p7='info@citycars.az' (Nullable = false) (Size = 2000), @p8='140a5575-f008-4246-b06a-51bd097b0e1f', @p9='2026-01-30T16:03:09.4966059Z', @p10=NULL (Size = 500), @p11='False', @p12='MaxBookingDays' (Nullable = false) (Size = 100), @p13='Number' (Nullable = false) (Size = 50), @p14=NULL (DbType = DateTime2), @p15='30' (Nullable = false) (Size = 2000), @p16='3c1ac8a8-31fd-4d55-b6d1-3fa7f30b0671', @p17='2026-01-30T16:03:09.4966055Z', @p18=NULL (Size = 500), @p19='False', @p20='MinBookingHours' (Nullable = false) (Size = 100), @p21='Number' (Nullable = false) (Size = 50), @p22=NULL (DbType = DateTime2), @p23='24' (Nullable = false) (Size = 2000), @p24='5ad04d10-dd11-4c73-8c55-0c4247f059fd', @p25='2026-01-30T16:03:09.4966006Z', @p26=NULL (Size = 500), @p27='False', @p28='CancellationDeadlineHours' (Nullable = false) (Size = 100), @p29='Number' (Nullable = false) (Size = 50), @p30=NULL (DbType = DateTime2), @p31='24' (Nullable = false) (Size = 2000), @p32='7655f2b0-e7ae-4865-bf93-28c5fa8859a5', @p33='2026-01-30T16:03:09.4966081Z', @p34=NULL (Size = 500), @p35='False', @p36='SiteName' (Nullable = false) (Size = 100), @p37='String' (Nullable = false) (Size = 50), @p38=NULL (DbType = DateTime2), @p39='City Cars AZ' (Nullable = false) (Size = 2000), @p40='d5ce5f09-65cd-4e11-9275-8a33d8ae36c2', @p41='2026-01-30T16:03:09.4966068Z', @p42=NULL (Size = 500), @p43='False', @p44='ContactPhone' (Nullable = false) (Size = 100), @p45='String' (Nullable = false) (Size = 50), @p46=NULL (DbType = DateTime2), @p47='+994 12 555 55 55' (Nullable = false) (Size = 2000)], CommandType='"Text"', CommandTimeout='30']
+SET IMPLICIT_TRANSACTIONS OFF;
+SET NOCOUNT ON;
+INSERT INTO [Settings] ([Id], [CreatedAt], [Description], [IsDeleted], [Key], [Type], [UpdatedAt], [Value])
+VALUES (@p0, @p1, @p2, @p3, @p4, @p5, @p6, @p7),
+(@p8, @p9, @p10, @p11, @p12, @p13, @p14, @p15),
+(@p16, @p17, @p18, @p19, @p20, @p21, @p22, @p23),
+(@p24, @p25, @p26, @p27, @p28, @p29, @p30, @p31),
+(@p32, @p33, @p34, @p35, @p36, @p37, @p38, @p39),
+(@p40, @p41, @p42, @p43, @p44, @p45, @p46, @p47);
+2026-01-30 20:03:09.513 +04:00 [INF] Database seeded successfully
+2026-01-30 20:03:09.519 +04:00 [INF] Starting City Cars AZ API...
+2026-01-30 20:03:09.548 +04:00 [INF] User profile is available. Using 'C:\Users\ibadn\AppData\Local\ASP.NET\DataProtection-Keys' as key repository and Windows DPAPI to encrypt keys at rest.
+2026-01-30 20:03:09.686 +04:00 [WRN] The WebRootPath was not found: C:\Backend\Citycars\Citycars.API\wwwroot. Static files may be unavailable.
+2026-01-30 20:03:09.970 +04:00 [WRN] The ASP.NET Core developer certificate is not trusted. For information about trusting the ASP.NET Core developer certificate, see https://aka.ms/aspnet/https-trust-dev-cert.
+2026-01-30 20:03:10.031 +04:00 [INF] Now listening on: https://localhost:7185
+2026-01-30 20:03:10.032 +04:00 [INF] Now listening on: http://localhost:5161
+2026-01-30 20:03:10.112 +04:00 [INF] Application started. Press Ctrl+C to shut down.
+2026-01-30 20:03:10.114 +04:00 [INF] Hosting environment: Development
+2026-01-30 20:03:10.116 +04:00 [INF] Content root path: C:\Backend\Citycars\Citycars.API
+2026-01-30 20:03:28.472 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger - null null
+2026-01-30 20:03:29.282 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger - 301 null null 815.0017ms
+2026-01-30 20:03:29.294 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2026-01-30 20:03:29.427 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 133.1633ms
+2026-01-30 20:03:29.476 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/swagger-ui.css - null null
+2026-01-30 20:03:29.477 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/swagger-ui-bundle.js - null null
+2026-01-30 20:03:29.478 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/swagger-ui-standalone-preset.js - null null
+2026-01-30 20:03:29.478 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-30 20:03:29.495 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 17.2612ms
+2026-01-30 20:03:29.499 +04:00 [INF] Sending file. Request path: '/swagger-ui-standalone-preset.js'. Physical path: 'N/A'
+2026-01-30 20:03:29.499 +04:00 [INF] Sending file. Request path: '/swagger-ui.css'. Physical path: 'N/A'
+2026-01-30 20:03:29.502 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/swagger-ui-standalone-preset.js - 200 230280 text/javascript 24.4281ms
+2026-01-30 20:03:29.503 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/swagger-ui.css - 200 152034 text/css 27.3029ms
+2026-01-30 20:03:29.526 +04:00 [INF] Sending file. Request path: '/swagger-ui-bundle.js'. Physical path: 'N/A'
+2026-01-30 20:03:29.529 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/swagger-ui-bundle.js - 200 1456926 text/javascript 52.7051ms
+2026-01-30 20:03:29.858 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2026-01-30 20:03:30.027 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 169.8194ms
+2026-01-30 20:03:30.564 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2026-01-30 20:03:30.575 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 10.4024ms
+2026-01-30 20:03:30.602 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/favicon-32x32.png - null null
+2026-01-30 20:03:30.609 +04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-01-30 20:03:30.611 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/favicon-32x32.png - 200 628 image/png 8.8972ms
+2026-01-30 20:03:33.250 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2026-01-30 20:03:33.258 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 7.9123ms
+2026-01-30 20:03:33.312 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2026-01-30 20:03:33.316 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-30 20:03:33.324 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 8.0763ms
+2026-01-30 20:03:33.326 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 13.622ms
+2026-01-30 20:03:33.509 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2026-01-30 20:03:33.509 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/favicon-32x32.png - null null
+2026-01-30 20:03:33.513 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 3.8935ms
+2026-01-30 20:03:33.515 +04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-01-30 20:03:33.519 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/favicon-32x32.png - 200 628 image/png 9.8562ms
+2026-01-30 20:03:33.951 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/index.html - null null
+2026-01-30 20:03:33.957 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/index.html - 200 null text/html;charset=utf-8 6.6481ms
+2026-01-30 20:03:33.986 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_vs/browserLink - null null
+2026-01-30 20:03:33.987 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - null null
+2026-01-30 20:03:33.992 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_framework/aspnetcore-browser-refresh.js - 200 16509 application/javascript; charset=utf-8 4.8494ms
+2026-01-30 20:03:33.993 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/_vs/browserLink - 200 null text/javascript; charset=UTF-8 7.4653ms
+2026-01-30 20:03:34.165 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - null null
+2026-01-30 20:03:34.170 +04:00 [INF] Request starting HTTP/2 GET https://localhost:7185/swagger/favicon-32x32.png - null null
+2026-01-30 20:03:34.173 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/v1/swagger.json - 200 null application/json;charset=utf-8 8.1096ms
+2026-01-30 20:03:34.179 +04:00 [INF] Sending file. Request path: '/favicon-32x32.png'. Physical path: 'N/A'
+2026-01-30 20:03:34.184 +04:00 [INF] Request finished HTTP/2 GET https://localhost:7185/swagger/favicon-32x32.png - 200 628 image/png 14.0355ms

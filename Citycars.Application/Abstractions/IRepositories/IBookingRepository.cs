@@ -13,6 +13,12 @@ namespace Citycars.Application.Abstractions.IRepositories
         /// <summary>
         /// Kullanıcının rezervasyonları
         /// </summary>
+        /// 
+
+        Task<int> CountByPrefixAsync(
+    string prefix,
+    CancellationToken cancellationToken = default);
+
         Task<List<Booking>> GetUserBookingsAsync(
             Guid userId,
             CancellationToken cancellationToken = default);
@@ -54,5 +60,8 @@ namespace Citycars.Application.Abstractions.IRepositories
         Task<List<Booking>> GetBookingsByStatusAsync(
             BookingStatus status,
             CancellationToken cancellationToken = default);
+
+        Task<List<Booking>> GetBookingsWithCarAndUserAsync(CancellationToken cancellationToken = default);
+
     }
 }
